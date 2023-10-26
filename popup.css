@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+hr {
+    margin: 5px 5px;
+}
+
+body {
+    width: 15rem;
+}
+
+div {
+    padding: 5px;
+    margin: 0px;
+}
+
+button {
+    width: 230px;
+    margin: 0px 5px 15px;
+}
+
+#secondPart {
+    margin-bottom: 0%;
+}
+
+#secondPartInput {
+    padding: 0%;
+    margin: 0%;
+}

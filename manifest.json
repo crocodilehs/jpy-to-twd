@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "日幣換算台幣",
+    "version": "1.0",
+    "description": "一個簡單的擴充功能，可以即時換算日幣到新台幣，輸入新台幣可以算差價。",
+    "icons": {
+        "128": "icon.png",
+        "48": "icon.png",
+        "16": "icon.png"
+    },
+    "host_permissions": [
+        "https://tw.rter.info/capi.php"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
